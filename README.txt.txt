@@ -1,0 +1,1 @@
+MyAudio is a simulation of a Spotify/Apple music app with the use of OOP. 
